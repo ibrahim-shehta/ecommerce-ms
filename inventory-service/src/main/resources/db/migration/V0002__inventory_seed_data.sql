@@ -1,0 +1,9 @@
+INSERT INTO inventory
+(id, quantity, sku_code)
+VALUES(1, 10, 'A');
+INSERT INTO inventory
+(id, quantity, sku_code)
+VALUES(2, 100, 'B');
+INSERT INTO inventory
+(id, quantity, sku_code)
+VALUES(3, 30, 'C');

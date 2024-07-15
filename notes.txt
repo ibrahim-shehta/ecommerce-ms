@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.2.7&packaging=jar&jvmVersion=17&groupId=com.hema.ms&artifactId=product-service&name=product-service&description=Product%20Service&packageName=com.hema.ms.product&dependencies=lombok,web,data-mongodb,testcontainers
